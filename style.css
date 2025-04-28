@@ -1,0 +1,8 @@
+body {
+  margin: 50px auto;
+  width: 600px;
+  margin-left: 750px;
+}
+.result {
+  border: 2px solid green;
+}
